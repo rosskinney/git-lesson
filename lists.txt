@@ -1,7 +1,12 @@
 List of countries by population:
 
-1. China - 7,108,800,000
-2. United States - 316,584,000
-3. India - 1,233,380,000
+1. China - 1,361,000,000
+2. India - 1,236,290,000	
+3. United States - 316,584,000
 4. Indonesia - 237,641,326
 5. Brazil - 201,032,714
+6. Pakistan - 184,762,000
+7. Nigeria - 176,615,000
+8. Bangladesh - 152,518,05
+9. Russia - 143,500,000
+10. Japan - 127,300,000
